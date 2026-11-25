@@ -5,7 +5,7 @@
 - Tên nhóm: Alone (làm một mình)
 - Lớp: L3B
 - Repo nhóm: `K5-L3B-DAY13-Alone-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/rawser246/K5-L3B-DAY13-Alone-LaunchEconomics · nhánh `main` · commit chốt: điền sau khi push
+- URL repo, nhánh nộp, commit chốt: https://github.com/rawser246/K5-L3B-DAY13-Alone-LaunchEconomics · nhánh `main` · commit chốt nội dung `d7da8c1` (commit sau đó chỉ cập nhật dòng này)
 
 ## Thành viên
 
